@@ -24,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=destryptor&show_icons=true&locale=en&layout=compact" alt="destryptor" /></p>
 
-[![An image of @destryptor's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/destryptor)](https://holopin.io/@destryptor)
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=destryptor&show_icons=true&locale=en" alt="destryptor" /></p>
+
+[![An image of @destryptor's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/destryptor)](https://holopin.io/@destryptor)
