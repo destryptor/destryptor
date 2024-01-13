@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sharanya Chakraborty</h1>
 <h3 align="center">A CSE Sophomore at Indian Institute of Technology, Kharagpur, India</h3>
 
-- 🌱 I’m currently learning about **the SPRING Framework, Data Structures & Algorithms, JavaScript, Node.js and MongoDB**
+- 🌱 I’m currently learning about **REACT, Next.js, Data Structures & Algorithms, TypeScript, Node.js and MongoDB**
 
 - ⚡ Fun fact: **I am a weeb XD**
 
