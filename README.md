@@ -3,7 +3,7 @@
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=destryptor&label=Profile%20views&color=0e75b6&style=flat" alt="destryptor" /> </p>
 
-- 🔭 I’m currently working on [`MASK-Next and TODO List Maker`](https://github.com/kgpmask/MASK-Next, https://github.com/destryptor/todo-list)
+- 🔭 I’m currently working on [`MASK-Next`](https://github.com/kgpmask/MASK-Next) and [`TODO List Maker`](https://github.com/destryptor/todo-list)
 
 - 🌱 I’m currently learning **NEXT.js, React, Typescript, MongoDB, Node.js, Data Structures and Algorithms.**
 
