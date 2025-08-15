@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋! My name is Sharanya Chakraborty.</h1><br><h3 align = "center">A Pre-Final Year CSE Student from IIT Kharagpur, India.</h3>
+<h1 align="center">Hi 👋! My name is Sharanya Chakraborty.</h1><br><h3 align = "center">A Final Year CSE Student from IIT Kharagpur, India.</h3>
 
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=destryptor&label=Profile%20views&color=0e75b6&style=flat" alt="destryptor" /> </p>
 
-- 🔭 I’m currently working on [`MASK-Next`](https://github.com/kgpmask/MASK-Next).
+- 💡 I interned at **Microsoft** in the **Azure DevOps Search** team this summer
 
-- 🌱 I’m currently learning **NEXT.js, React, Typescript, MongoDB, Node.js, Data Structures and Algorithms.**
+- 🌱 I’m currently learning about **information security and privacy**
 
-- 💬 Ask me about **React, Express, Node.js, Javascript.**
+- 💬 Ask me about **NEXT.js, React, Express, C++, Data Structures and Algorithms**
 
-- ⚡ Fun fact **I am a weeb XD.**
+- ⚡ Fun fact: **I am a weeb XD**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=destryptor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="130" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=destryptor&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="130" alt="streak graph"  />
@@ -58,6 +58,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35" alt="sass logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" height="35" alt="logo"/>
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="35" alt="logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="35" alt="logo"/>
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="35" alt="logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="35" alt="logo"/>
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="35" alt="logo"/>
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="35" alt="logo"/>
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" height="35" alt="logo"/>
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="logo"/>
+  <img width="15" />
 </div>
 
 ###
