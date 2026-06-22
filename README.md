@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋! My name is Sharanya Chakraborty.</h1><br><h3 align = "center">A Final Year CSE Student from IIT Kharagpur, India.</h3>
+<h1 align="center">Hi 👋! My name is Sharanya Chakraborty.</h1><br><h3 align = "center">A Software Engineer at Microsoft.</h3>
 
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=destryptor&label=Profile%20views&color=0e75b6&style=flat" alt="destryptor" /> </p>
 
-- 💡 I interned at **Microsoft** in the **Azure DevOps Search** team this summer
+- 🎓 I am a CSE Graduate from **Indian Institute of Technology, Kharagpur**
 
-- 🌱 I’m currently learning about **information security and privacy**
+- 💡 I interned at **Microsoft** in the **Azure DevOps Search** team in 2025
 
-- 💬 Ask me about **NEXT.js, React, Express, C++, Data Structures and Algorithms**
+- 🌱 I’m currently learning about **Ruby (on Rails) and GoLang**
+
+- 💬 Ask me about **Information Security, NLP, NEXT.js, React, C++, Data Structures and Algorithms**
 
 - ⚡ Fun fact: **I am a weeb XD**
 <div align="center">
