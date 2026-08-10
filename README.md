@@ -10,7 +10,7 @@ software engineer | systems enthusiast | full-stack developer
 ```
 <div align="center">
 
-<h3>👋 Hi, I'm Sharanya Chakraborty </h3>
+<h3> Hi👋 I'm Sharanya Chakraborty </h3>
 <h4> A Software Engineer at Microsoft </h4>
 
 <img src="https://komarev.com/ghpvc/?username=destryptor&label=PROFILE%20VIEWS&color=23AF31&style=flat-square" alt="Profile views" />
@@ -129,7 +129,7 @@ anime
 └─$ echo "That's what we've been doing our entire lives, just hiding, right?"
 ```
 
-<img align="right" height="140" src="https://media.tenor.com/paU7ZLSP3b0AAAAM/evrima-server.gif" alt="Animated terminal GIF" />
+<img height="140" src="https://media.tenor.com/paU7ZLSP3b0AAAAM/evrima-server.gif" alt="Animated terminal GIF" />
 
 
 </div>
