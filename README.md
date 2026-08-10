@@ -129,7 +129,7 @@ anime
 └─$ echo "That's what we've been doing our entire lives, just hiding, right?"
 ```
 
-<img height="140" src="https://media.tenor.com/paU7ZLSP3b0AAAAM/evrima-server.gif" alt="Animated terminal GIF" />
+<img align="center" height="140" src="https://media.tenor.com/paU7ZLSP3b0AAAAM/evrima-server.gif" alt="Animated terminal GIF" />
 
 
 </div>
