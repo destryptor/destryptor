@@ -122,7 +122,7 @@ anime
 
 ---
 
-<div>
+<div align="center">
   
 ```console
 ┌──(destryptor㉿github)-[~/life]
